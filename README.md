@@ -156,5 +156,5 @@ git push origin main
 
 ## 👨‍💻 Author
 
-Name: Saraswathi R
-Registration Number: 24MSCS28
+**Name**: Saraswathi R
+**Registration Number**: 24MSCS28
