@@ -1,8 +1,8 @@
-📘 Day2-24MSCS28 - Maven Project
+Day2-24MSCS28 - Maven Project
 
 This project is part of the Day 2 internship task, focusing on setting up and working with a **Maven project** using core Java concepts such as **inheritance** and **exception handling**, with the integration of commonly used libraries via Maven dependencies.
 
-✅ Project Overview
+ Project Overview
 
 The project titled `Day2-24MSCS28` includes the following:
 
@@ -81,11 +81,11 @@ Certainly! Here's the updated and finalized **“How to Build and Run”** secti
 
 ---
 
-⚙️ How to Build and Run This Project
+How to Build and Run This Project
 
 Follow these steps to **clone**, **build**, and **run** this Maven-based Java project.
 ---
-### 🧩 Prerequisites
+### Prerequisites
 
 Ensure the following are installed on your machine:
 * Java Development Kit (JDK 8 or later)
@@ -93,7 +93,7 @@ Ensure the following are installed on your machine:
 * Git
 ---
 
-### 📥 1. Clone the Repository
+### 1. Clone the Repository
 Open your terminal (e.g., Git Bash or CMD) and run:
 
 ```bash
@@ -102,7 +102,7 @@ cd Day2_24MSCS28
 ```
 ---
 
-### 🛠️ 2. Build the Project
+### 2. Build the Project
 
 Once inside the project folder, build the Maven project to download dependencies and compile code:
 ```bash
@@ -113,17 +113,17 @@ mvn clean install
 
 ---
 
-### 🚀 3. Run the Project
+### 3. Run the Project
 
 Use the following commands to run the main classes:
 
-#### ▶️ Run the Library Management System
+#### Run the Library Management System
 
 ```bash
 mvn exec:java -Dexec.mainClass="com.day2.library.LibraryManagement"
 ```
 
-#### ▶️ Run the Banking System
+#### Run the Banking System
 
 ```bash
 mvn exec:java -Dexec.mainClass="com.day2.banking.BankingSystem"
@@ -133,7 +133,7 @@ mvn exec:java -Dexec.mainClass="com.day2.banking.BankingSystem"
 
 ---
 
-### 🔄 4. Push Changes to GitHub
+### 4. Push Changes to GitHub
 
 If you’ve made changes and want to push them to GitHub, use:
 
@@ -147,14 +147,14 @@ git push origin main
 > This ensures your local commits are in sync with remote changes before pushing.
 
 ---
-## 🎥 References
+## References
 
 * **Article**: [Maven Introduction - Baeldung](https://www.baeldung.com/maven)
 * **Video Tutorial**: [YouTube - Maven Project Setup](https://www.youtube.com/watch?v=793-O43F-ng)
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
 **Name**: Saraswathi R
 
